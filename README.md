@@ -1,5 +1,7 @@
 # demo_repo
 Demo Reository
 <br>
-Author_ Tarun (Tarun Knowledgegit godgillla)
+Author_ Tarun
+<br>
+(Tarun Knowledgegit godgillla)
 
